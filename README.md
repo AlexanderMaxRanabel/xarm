@@ -1,7 +1,9 @@
-X Server
+Xarm Server
 --------
 
-The X server accepts requests from client applications to create windows,
+Xarm is a continuation of X Windows System and X11
+
+The Xarm server accepts requests from client applications to create windows,
 which are (normally rectangular) "virtual screens" that the client program
 can draw into.
 
