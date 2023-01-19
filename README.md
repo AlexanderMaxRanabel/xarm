@@ -1,7 +1,18 @@
-Xarm Server
+# Xarm Server
 --------
 
-Xarm is a continuation of X Windows System and X11
+Xarm is a continuation of X Windows System and X11.
+# Why Xarm is Started?
+
+Xarm is started because X11 development is started to die. Xarm tries to modernize X11 and refactor some of the code so it can be easier to maintain.
+
+# Why Not Wayland?
+
+1. Wayland is a pretty new technology. While Wayland is started to became a more mature piece of software, some of the old X11 Software are vey bad at
+working with Wayland. 
+2. Wayland is getting the features X11 has over years.
+
+## ORİGİNAL X11 README.MD
 
 The Xarm server accepts requests from client applications to create windows,
 which are (normally rectangular) "virtual screens" that the client program
